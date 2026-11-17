@@ -1,0 +1,42 @@
+FontVault
+Copyright (c) 2026 Alex Macpherson. All rights reserved.
+
+FontVault is proprietary software. It is not open source.
+
+1. Evaluation use
+   You may install and run copies of FontVault that the copyright holder gave you or
+   made available to you, on computers you use, to try and test the software.
+
+2. What you may not do
+   Without written permission from the copyright holder you may not:
+   - copy, publish or pass FontVault on to anyone else;
+   - sell, rent, sublicense or otherwise charge for it;
+   - modify it, or take it apart to obtain its source code, except where the law
+     gives you that right regardless of this licence.
+
+3. Ownership
+   FontVault, including its source code, design and name, belongs to the copyright
+   holder. Using or testing it, alone or within a company or team, does not give you,
+   your employer or your clients any ownership of, or rights in, FontVault beyond the
+   evaluation use described above.
+
+4. Feedback
+   If you send suggestions, bug reports or other feedback, the copyright holder may use
+   them freely, without owing you anything.
+
+5. Your fonts
+   FontVault contains no fonts and gives you no rights to any font. Fonts you manage
+   with it remain subject to their own licences, which are your responsibility.
+
+6. Third-party components
+   FontVault includes open-source components (among them Flask, fontTools and
+   pywebview) that remain under their own licences.
+
+7. No warranty
+   FontVault is provided "as is", without warranty of any kind. To the extent the law
+   allows, the copyright holder is not liable for any loss or damage arising from its
+   use, including loss of data or fonts. Keep backups.
+
+8. Ending
+   The copyright holder may end this permission at any time. If that happens, stop
+   using FontVault and delete your copies.
